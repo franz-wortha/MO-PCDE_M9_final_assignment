@@ -5,7 +5,7 @@
 * [x] Create repository
 * [x] Clone repository and add notebook
 * [x] Push to remote
-* [ ] Edit notebook
-* [ ] Commit and push changes
+* [x] Edit notebook
+* [x] Commit and push changes
 * [ ] Verify repository is public
 * [ ] Submit

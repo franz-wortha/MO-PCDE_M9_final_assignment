@@ -7,5 +7,5 @@
 * [x] Push to remote
 * [x] Edit notebook
 * [x] Commit and push changes
-* [ ] Verify repository is public
-* [ ] Submit
+* [x] Verify repository is public
+* [x] Submit
